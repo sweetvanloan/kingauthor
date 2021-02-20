@@ -10,4 +10,4 @@ King Author is a social media app connecting writers in their writing journey us
 - JavaScript
 - Materialize
 - HTML
-- CSS
+- CSS 
